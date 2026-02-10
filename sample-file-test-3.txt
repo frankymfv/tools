@@ -1,0 +1,7 @@
+This is a sample file created for test-branch-3.
+
+Purpose: Demonstrate PR creation workflow
+Created: 2026-02-10
+Requested by: unknown
+
+This file can be safely deleted after testing.
