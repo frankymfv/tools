@@ -1,0 +1,7 @@
+This is a sample file created for testing branch and PR creation.
+
+Branch: test-branch-3-unknown_v1
+Created by: GitHub App MCP integration
+Purpose: Demonstrate PR workflow
+
+Timestamp: 2026-02-10T17:17:25+07:00
